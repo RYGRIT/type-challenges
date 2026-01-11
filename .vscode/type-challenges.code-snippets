@@ -1,0 +1,20 @@
+{
+  "Type Challenge Comment": {
+    "scope": "typescript",
+    "prefix": "tc-comment",
+    "body": [
+      "/**",
+      " * # ${1:id} - ${2:name}",
+      " *",
+      " * Problem in one line: ${3}",
+      " * Input/Output shape: ${4}",
+      " * Key trick(s): ${5}",
+      " * My solution: ${6}",
+      " * Edge cases: ${7}",
+      " * What I got wrong or learned: ${8}",
+      " * Reusable pattern: ${9}",
+      " */"
+    ],
+    "description": "Template for Type Challenge solution comments"
+  }
+}
